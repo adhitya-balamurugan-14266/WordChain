@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "wordchain_api"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
+
